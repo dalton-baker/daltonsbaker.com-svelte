@@ -6,7 +6,8 @@
     import pdfUrl from '$lib/assets/DaltonBakerResume.pdf?url'
 </script>
 
-<section class="text-center my-5">
+<section class="text-center mt-4">
+    <img src="logo.svg" style="height: 5rem;">
     <h1 class="display-4">Hi, I'm Dalton</h1>
     <p class="lead">Software engineer. Maker. Builder of things both useful and ridiculous.</p>
 </section>
